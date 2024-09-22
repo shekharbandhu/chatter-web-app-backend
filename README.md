@@ -22,6 +22,10 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## UI Repo
+
+chatter-web-app-ui: <a href = "https://github.com/shekharbandhu/chatter-web-app-ui" target="_blank"> chatter-ui </a>
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
